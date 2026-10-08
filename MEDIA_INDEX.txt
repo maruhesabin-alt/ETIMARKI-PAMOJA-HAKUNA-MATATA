@@ -1,0 +1,13 @@
+ETIMARKI PAMOJA HAKUNA MATATA — MEDIA INCLUDED
+
+This package includes all 74 source images supplied for the project:
+- 69 project photographs, organized by project P01-P09.
+- 5 official identity/partner logos.
+
+Index/hero images used directly by index.html are stored in:
+assets/index/
+
+Project media:
+assets/projects/P01/ ... P09/
+
+All images are local to the ZIP. The website does not require these project images to be downloaded from the Internet.
