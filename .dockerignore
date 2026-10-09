@@ -1,0 +1,5 @@
+storage/data
+storage/uploads
+.env
+.git
+node_modules

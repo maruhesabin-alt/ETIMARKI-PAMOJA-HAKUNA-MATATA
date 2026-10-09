@@ -1,0 +1,14 @@
+{
+  "name": "etimarki-site",
+  "version": "1.0.0",
+  "description": "Site institutionnel ETIMARKI PAMOJA HAKUNA MATATA — serveur Node.js sans dépendance externe",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch server.js",
+    "test": "node --disable-warning=ExperimentalWarning tools/smoke-test.js",
+    "media": "python3 tools/build_media.py"
+  }
+}
