@@ -1,7 +1,4 @@
-APERÇU HORS LIGNE — ETIMARKI PAMOJA HAKUNA MATATA
+SITE ETIMARKI — fichier unique
 
-Double-cliquez sur index.html pour ouvrir le site dans votre navigateur.
-
-Cet aperçu montre le design, les pages, les photos, les filtres et la galerie.
-Le formulaire de contact, l'administration et l'ajout de contenus fonctionnent uniquement avec le site complet (dossier etimarki-site, commande « npm start »).
-La carte interactive nécessite Internet.
+Double-cliquez sur index.html : toutes les pages et photos sont dans ce seul fichier.
+Formulaire de contact, administration et carte interactive : uniquement sur le site complet (etimarki-site.zip).
